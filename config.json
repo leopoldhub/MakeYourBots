@@ -1,0 +1,11 @@
+{
+    "token":"DiscordBotToken",
+    "base":{
+        "host":"localhost",
+        "port":3306,
+        "user":"user",
+        "pass":"password",
+        "base":"base"
+    },
+    "superuser": "DiscordSuperUserId"
+ }
